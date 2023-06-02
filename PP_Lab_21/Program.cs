@@ -9,7 +9,12 @@ namespace PP_Lab_21
     internal class Program
     {
         static void Main(string[] args)
+<<<<<<< HEAD
         {//branch master
+=======
+        {
+           //Branch is final
+>>>>>>> final
             Console.WriteLine("Введите а");
             double a= int.Parse(Console.ReadLine());
             Console.WriteLine("Введите а");
