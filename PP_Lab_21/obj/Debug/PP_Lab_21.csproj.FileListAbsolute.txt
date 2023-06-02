@@ -1,0 +1,8 @@
+D:\Ivan_Ushakov\PP_Lab_21\PP_Lab_21\bin\Debug\PP_Lab_21.exe.config
+D:\Ivan_Ushakov\PP_Lab_21\PP_Lab_21\bin\Debug\PP_Lab_21.exe
+D:\Ivan_Ushakov\PP_Lab_21\PP_Lab_21\bin\Debug\PP_Lab_21.pdb
+D:\Ivan_Ushakov\PP_Lab_21\PP_Lab_21\obj\Debug\PP_Lab_21.csproj.AssemblyReference.cache
+D:\Ivan_Ushakov\PP_Lab_21\PP_Lab_21\obj\Debug\PP_Lab_21.csproj.SuggestedBindingRedirects.cache
+D:\Ivan_Ushakov\PP_Lab_21\PP_Lab_21\obj\Debug\PP_Lab_21.csproj.CoreCompileInputs.cache
+D:\Ivan_Ushakov\PP_Lab_21\PP_Lab_21\obj\Debug\PP_Lab_21.exe
+D:\Ivan_Ushakov\PP_Lab_21\PP_Lab_21\obj\Debug\PP_Lab_21.pdb
