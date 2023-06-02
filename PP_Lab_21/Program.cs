@@ -10,6 +10,7 @@ namespace PP_Lab_21
     {
         static void Main(string[] args)
         {
+           //Branch is final
             Console.WriteLine("Введите а");
             double a= int.Parse(Console.ReadLine());
             Console.WriteLine("Введите а");
