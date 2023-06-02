@@ -11,9 +11,9 @@ namespace PP_Lab_21
         static void Main(string[] args)
         {
             Console.WriteLine("Введите а");
-            int a= int.Parse(Console.ReadLine());
+            double a= int.Parse(Console.ReadLine());
             Console.WriteLine("Введите а");
-            int b= int.Parse(Console.ReadLine());
+            double b= int.Parse(Console.ReadLine());
 
             Console.WriteLine("Выберите действие:\n1. Складывание\n2. Вычитание\n3. Умножение\n Деление");
             int select=int.Parse(Console.ReadLine());
@@ -24,14 +24,14 @@ namespace PP_Lab_21
                     break;
 
                 case 2:
-                    
+                    Console.WriteLine(a-b);
                     break;
                 case 3:
-
+                    Console.WriteLine(a*b);
                     break;
 
                 case 4:
-
+                    Console.WriteLine(a/b);
                     break;
             }
         }
