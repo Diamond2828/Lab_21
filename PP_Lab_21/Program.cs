@@ -20,7 +20,7 @@ namespace PP_Lab_21
             switch (select) 
             {
                 case 1:
-                    
+                    Console.WriteLine(a+b);
                     break;
 
                 case 2:
