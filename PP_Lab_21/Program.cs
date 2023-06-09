@@ -12,33 +12,34 @@ namespace PP_Lab_21
 
         {//branch master
 
-        {
-           //Branch is final
-
-            Console.WriteLine("Введите а");
-            double a= int.Parse(Console.ReadLine());
-            Console.WriteLine("Введите b");
-            double b= int.Parse(Console.ReadLine());
-            
-            Console.WriteLine("Выберите действие:\n1. Складывание\n2. Вычитание\n3. Умножение\n 4. Деление");
-            int select=int.Parse(Console.ReadLine());
-            switch (select) 
             {
-                case 1:
-                    Console.WriteLine(a+b);
-                    break;
+                //Branch is final
 
-                case 2:
-                    Console.WriteLine(a-b);
-                    break;
-                case 3:
-                    Console.WriteLine(a*b);
-                    break;
+                Console.WriteLine("Введите а");
+                double a = int.Parse(Console.ReadLine());
+                Console.WriteLine("Введите b");
+                double b = int.Parse(Console.ReadLine());
 
-                case 4:
-                    Console.WriteLine(a/b);
-                    break;
+                Console.WriteLine("Выберите действие:\n1. Складывание\n2. Вычитание\n3. Умножение\n 4. Деление");
+                int select = int.Parse(Console.ReadLine());
+                switch (select)
+                {
+                    case 1:
+                        Console.WriteLine(a + b);
+                        break;
+
+                    case 2:
+                        Console.WriteLine(a - b);
+                        break;
+                    case 3:
+                        Console.WriteLine(a * b);
+                        break;
+
+                    case 4:
+                        Console.WriteLine(a / b);
+                        break;
                         //Изменение
+                }
             }
         }
     }
